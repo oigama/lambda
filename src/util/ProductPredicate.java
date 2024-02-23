@@ -12,6 +12,4 @@ public class ProductPredicate implements Predicate<Product> {
         return p.getPrice() >= 100.0;
     }
 
-
-
 }
